@@ -50,15 +50,10 @@ To mimic real-world retail data, a synthetic dataset of 150 smartphone models wa
 1. Clone this repository:
 ```bash
 
-```
-
-
-
 git clone https://github.com/nadhif-royal/smartphone-market-data-analysis.git
-
 ```
 2. Navigate to the project directory:
-   ```bash
+```bash
 cd smartphone-market-data-analysis
 
 ```
@@ -66,15 +61,11 @@ cd smartphone-market-data-analysis
 3. Install the required dependencies:
 ```bash
 
-```
-
-
-
 pip install pandas numpy matplotlib seaborn
 
 ```
 4. Open the Jupyter Notebook to explore the code and visualizations:
-   ```bash
+```bash
 jupyter notebook Nadhif_Rifat_Rasendriya_Chapter1_Challenge.ipynb
 
 ```
